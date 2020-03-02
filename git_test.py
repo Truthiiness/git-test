@@ -7,4 +7,10 @@
 i = 1
 while i == 1:
   print('Hello world.')
-  i = 1
+  i = 2
+while i == 2:
+    print('My name is Bob.')
+    i=3
+while i == 3:
+    print("Good bye.")
+    i=0
